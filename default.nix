@@ -17,7 +17,7 @@
             "emailoverride": "",
             "keepnr": 3,
             "inputs": {
-                "src": { "type": "git", "value": "git://github.com/newtype64/hydra-jobsets.git", "emailresponsible": false },
+                "src": { "type": "git", "value": "git://github.com/newtype64/hydra-jobsets.git main", "emailresponsible": false },
                 "nixpkgs": { "type": "git", "value": "git://github.com/NixOS/nixpkgs.git release-23.05", "emailresponsible": false }
             }
         }
